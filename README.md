@@ -3,6 +3,10 @@
 
 The nodejs port of JD(360buy) API
 
+## Installation
+
+npm install node-jd
+
 ## License 
 
 (The MIT License)
