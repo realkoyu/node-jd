@@ -1,0 +1,12 @@
+{
+    "name": "node-jd"
+  , "version": "0.1"
+  , "description": "Nodejs port of JD api"
+  , "keywords": ["JD","360buy","JingDong"]
+  , "homepage": "https://github.com/realkoyu/node-jd"
+  , "author": "victor.guo <victor.guo@d1miao.com>"
+  , "dependencies": {
+  }
+  , "main": "index"
+  , "engines": { "node": "0.10.x" }
+}
